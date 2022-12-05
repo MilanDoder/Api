@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+i3gyzh1frSepToIEE5CB8nLTo68PWwPh5eYtYoSUF7GpfNHaSvSpYxxdeEF79PHtJQDf2FzuIS2iFFAUxEWNA==",
+  "dgSpecHash": "mjgc3rdSdNQQ/GdruUqHuSwD0YqAerdmo5Xm3QzeJgCD0nlnsD51p19jtmf2g09UMVATWX7JvA2md2RPSSDPrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mdode\\source\\repos\\Api\\Pokemon\\Pokemon\\Pokemon.csproj",
+  "projectFilePath": "C:\\Users\\mdode\\source\\repos\\Git\\Pokemon\\Pokemon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdode\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mdode\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
