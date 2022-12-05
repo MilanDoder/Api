@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mdode\\source\\repos\\Api\\Pokemon\\Pokemon\\Pokemon.csproj": {}
+    "C:\\Users\\mdode\\source\\repos\\Git\\Pokemon\\Pokemon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mdode\\source\\repos\\Api\\Pokemon\\Pokemon\\Pokemon.csproj": {
+    "C:\\Users\\mdode\\source\\repos\\Git\\Pokemon\\Pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mdode\\source\\repos\\Api\\Pokemon\\Pokemon\\Pokemon.csproj",
+        "projectUniqueName": "C:\\Users\\mdode\\source\\repos\\Git\\Pokemon\\Pokemon.csproj",
         "projectName": "Pokemon",
-        "projectPath": "C:\\Users\\mdode\\source\\repos\\Api\\Pokemon\\Pokemon\\Pokemon.csproj",
+        "projectPath": "C:\\Users\\mdode\\source\\repos\\Git\\Pokemon\\Pokemon.csproj",
         "packagesPath": "C:\\Users\\mdode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mdode\\source\\repos\\Api\\Pokemon\\Pokemon\\obj\\",
+        "outputPath": "C:\\Users\\mdode\\source\\repos\\Git\\Pokemon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mdode\\AppData\\Roaming\\NuGet\\NuGet.Config",
