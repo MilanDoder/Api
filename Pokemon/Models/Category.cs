@@ -1,4 +1,4 @@
-﻿namespace Pokemon.Models
+﻿namespace PokemonApi.Models
 {
     public class Category
     {
