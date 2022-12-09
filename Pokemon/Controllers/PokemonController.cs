@@ -46,7 +46,7 @@ namespace PokemonApi.Controllers
 
             if (!ModelState.IsValid)
             {
-                return BadRequest(pokemon);
+                return BadRequest(ModelState);
             }
             return Ok(pokemon);
 
@@ -65,7 +65,7 @@ namespace PokemonApi.Controllers
 
             if (!ModelState.IsValid)
             {
-                return BadRequest();
+                return BadRequest(ModelState);
             }
             return Ok(rating);
 
