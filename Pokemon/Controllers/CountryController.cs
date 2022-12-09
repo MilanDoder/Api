@@ -24,7 +24,7 @@ namespace PokemonApi.Controllers
         [ProducesResponseType(200, Type = typeof(IEnumerable<Country>))]
         public IActionResult GetCountries()
         {
-            var countries = _mapper.Map<List<PokemonDto>>(_countryRepository.GetCountries());
+            var countries = _mapper.Map<List<CountryDto>>(_countryRepository.GetCountries());
 
             if (!ModelState.IsValid)
             {
@@ -37,7 +37,7 @@ namespace PokemonApi.Controllers
         [HttpGet("{countryId}")]
         [ProducesResponseType(200, Type = typeof(IEnumerable<Country>))]
         [ProducesResponseType(400)]
-        public IActionResult GetCountryn(int countryId)
+        public IActionResult GetCountry(int countryId)
         {
             if (!_countryRepository.CountyExist(countryId))
                 return NotFound();
